@@ -1,6 +1,5 @@
 # C-BGMI-Tournament
-![bgmi](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/3e799a1f-f771-4571-a986-86f13552ca29)
-![main](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/6e13a0bc-3247-45f6-8447-87ff54af6607)
-![match](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/8cbe6b9f-0588-4f3b-b600-b4bf53218009)
-![pay](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/f47d561f-2507-4996-9ede-4fa2c6f04fa1)
-![order](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/16824698-6e88-4d8a-8f3b-0514d43980d3)
+![image](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/7036649d-ad08-413a-afd8-afbd88f12642)
+![image](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/3f82b6e3-8575-4f1c-943c-5a9cb7a3cc09)
+![image](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/7cdc12b3-41d6-4907-98a1-7626b44dd011)
+![image](https://github.com/CHANDANMCA790/C-BGMI-Tournament/assets/106569515/ecc63957-db7e-4654-aa3d-9c98a77a9479)
